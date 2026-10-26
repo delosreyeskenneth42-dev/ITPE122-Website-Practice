@@ -3,6 +3,16 @@ body {
     margin: 40px;
 }
 
+.contactheading{
+    color:crimson;
+}
+
+.aboutheading{
+    color:darkolivegreen;
+}
 h1 {
     color: steelblue;
+}
+h2{
+    color:darkslategrey;
 }
